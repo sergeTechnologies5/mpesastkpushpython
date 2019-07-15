@@ -7,4 +7,4 @@
 
 ##  The pygetapikey is a simple test to get an API KEY from mpesa. I will be abit mechanical so  I wont explain how the MPESA API works , I will just give working code for devs who understand how it works but they cant put up the code easily. 
 
-##NB : No external library or api is used I used raw request to write the code
+### NB : No external library or api is used I used raw request to write the code
